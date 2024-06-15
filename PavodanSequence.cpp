@@ -76,7 +76,6 @@ public:
     }
 };
 
-
 //{ Driver Code Starts.
 int main() {
     #ifndef ONLINE_JUDGE
